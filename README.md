@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://docs.google.com/spreadsheets/d/1DjCkIOUGEKZAEVUBPsZ4ji7LhgM25314VZUwdBBNLkI/edit?gid=0#gid=0)
+- ### [PayRoll Calculator](https://docs.google.com/spreadsheets/d/1DjCkIOUGEKZAEVUBPsZ4ji7LhgM25314VZUwdBBNLkI/edit?gid=0#gid=0)
 
 <h2>Environments and Technologies Used</h2>
 
