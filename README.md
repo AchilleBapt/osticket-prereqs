@@ -28,7 +28,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 
-"C:\Users\achil\Documents\New folder\20241130_170446.mp4"
 <h2>Installation Steps</h2>
 
 <p>
